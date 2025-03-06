@@ -31,6 +31,9 @@ public class Selinium {
 	Thread.sleep(4000);
 	driv.quit();
 		System.out.println("gtghfgh");
+
+	System.out.println("not");	
+
 		
 	}
 
