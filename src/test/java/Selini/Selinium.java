@@ -30,7 +30,7 @@ public class Selinium {
 	driv.close();
 	Thread.sleep(4000);
 	driv.quit();
-		
+		System.out.println("gtghfgh");
 		
 	}
 
